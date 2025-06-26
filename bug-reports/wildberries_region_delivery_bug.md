@@ -31,14 +31,9 @@
    *"Проверить доступность в вашем регионе"*.
   
 Приложения
-Скриншоты:
+## Доказательства
+![Главная страница](screenshots/wildberries_region_delivery_bug/wildberries_main_page.webp)
 
-![image](https://github.com/user-attachments/assets/ea90b4ac-19e3-42d6-82ee-bfb681fe49d9)
+![После смены региона](screenshots/wildberries_region_delivery_bug/wildberries_change_region.webp)
 
-![image](https://github.com/user-attachments/assets/1bb40ae7-3f85-4108-bdec-339df87f1a09)
-
-![image](https://github.com/user-attachments/assets/6c3d1167-ba6a-45f1-ae92-343e6282d021)
-
-![image](https://github.com/user-attachments/assets/99ebd17f-b0c4-48b7-999f-bf9f154761f3)
-
-![image](https://github.com/user-attachments/assets/3050504a-3d87-4f39-9cef-11e65ca0499f)
+![Ошибка в корзине](screenshots/wildberries_region_delivery_bug/wildberries_cart_error.webp)
